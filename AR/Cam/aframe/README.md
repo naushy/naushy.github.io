@@ -7,7 +7,7 @@ Augmented reality for a-frame.
         <!-- define a marker -->
         <a-anchor>
                 <!-- define the content to be displayed on top of the marker -->
-                <a-box color="#2EAFAC"></a-box>
+                <a-box color="#D4AF37"></a-box>
         </a-anchor>
         <!-- define a simple camera -->
         <a-camera-static/>
